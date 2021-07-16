@@ -1,5 +1,15 @@
 # TKinterQuiz
-An "dynamic" class that can generate quizes! Also, my second ever project that i was paid to do!
-# About The Code
-The code isn't that good at all, someday i will rewrite this and make it better and more professional.
-Built with the help of my friend [@Ocidenttal](https://github.com/ocidenttal)
+A class that can build quizzes via a json-like variable that will contain all the quiz information, like:
+  
+  Quiz name (the window name)
+  Quiz icon (windows window icon)
+  Quiz total questions
+  Quiz question score
+  And more!
+  
+Please keep in mind that if the question/answer is too big you will need to break lines (using """ to make multi-lines strings or break the line with \n)
+also, this code isn't polished at all, so it might have some bugs, which you can report at the Issues tab!
+  
+
+# Creators
+Me and my friend [@Ocidenttal](https://github.com/ocidenttal)
